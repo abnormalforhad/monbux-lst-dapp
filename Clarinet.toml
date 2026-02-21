@@ -11,7 +11,7 @@ clarity_version = 3
 epoch = 'latest'
 
 [contracts.my-contract]
-path = 'contracts/my-contract.clar'
+path = 'contracts/monstacks.clar'
 clarity_version = 3
 epoch = 'latest'
 [repl.analysis]
